@@ -1,7 +1,9 @@
-/* Maria plays n games of college basketball in a season. Because she wants to go pro, she tracks her points scored per game sequentially in an array defined as score=[s0,s1,s2...].
+/* Maria plays n games of college basketball in a season. Because she wants to go pro, she tracks her points scored per game 
+sequentially in an array defined as score=[s0,s1,s2...].
 After each game i, she checks to see if score si breaks her record for most or least points scored so far during that season.
 
-Given Maria's array of scores for a season of n games, find and print the number of times she breaks her record for most and least points scored during the season. */
+Given Maria's array of scores for a season of n games, find and print the number of times she breaks her record for 
+most and least points scored during the season. */
 
 import java.io.*;
 import java.util.*;
