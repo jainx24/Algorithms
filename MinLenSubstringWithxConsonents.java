@@ -1,7 +1,7 @@
 /*
-Kiran has been a given a problem by his brother Narik .The problem is related to strings.
-Now he gives Kiran a long String S which consists of lowercase English Alphabets 
-and wants him to tell the minimum size of substring such that all the substrings of that size in S have at least K Consonants(Non-vowels) in them.
+Kiran has been a given a problem by his brother Narik .The problem is related to strings. Now he gives Kiran a long 
+String S which consists of lowercase English Alphabets and wants him to tell the minimum size of substring such that 
+all the substrings of that size in S have at least K Consonants(Non-vowels) in them.
 If none of the subArray size satisfy the above condition ,return -1.
 
 Input Format
