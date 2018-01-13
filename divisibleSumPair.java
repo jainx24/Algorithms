@@ -1,4 +1,5 @@
-/* You are given an array of n integers, ar, and a positive integer, k. Find and print the number of (i,j) pairs where i<j and  ai+aj  is divisible by k. */
+/* You are given an array of n integers, ar, and a positive integer, k. Find and print the number of (i,j) pairs where i<j and 
+ai+aj  is divisible by k. */
 
 import java.io.*;
 import java.util.*;
