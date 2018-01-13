@@ -1,7 +1,7 @@
 /* Bob has a strange counter. At the first second, t=0, it displays the number 3. At each subsequent second, 
-the number displayed by the counter decrements by 1. The counter counts down in cycles. In the second after 
-the counter counts down to 1, the number becomes 2x the initial number for that countdown cycle and then continues 
-counting down from the new initial number in a new cycle. The diagram below shows the counter values for each time t in the first three cycles:
+the number displayed by the counter decrements by 1. The counter counts down in cycles. In the second after the counter 
+counts down to 1, the number becomes 2x the initial number for that countdown cycle and then continues counting down 
+from the new initial number in a new cycle. The diagram below shows the counter values for each time t in the first three cycles:
 
 time value	time value	time value
 1	3	4	6	10	12
