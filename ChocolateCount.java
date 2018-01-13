@@ -1,16 +1,17 @@
 /*
-Sachin's sister loves chocolates a lot. So he decided to gift her N boxes of delicious chocolates. Every box has the capacity of 1000 chocolates. 
-Filling more than 1000 chocolates in a box will break it and all the chocolates in it will fall down and will become uneatable. 
-Sachin is also concerned about her health, so he advised her to eat as minimum as possible chocolates. 
-So she decided that every day she will pick a box containing the minimum amount of chocolates and will eat half 
-of its chocolates and will put remaining chocolates in the box having next minimum amount of chocolates. 
-If there is no next box remaining then she will eat all of the chocolates from the current box. She will throw away all the empty and broken boxes every day. 
-This will continue until all the boxes are gone. Being concerned about her health Sachin asked her to tell him the number of chocolates she eats every day. 
-But she forgets the number every day. So help her to find out how many chocolates she eats every day. Basically, you have to output the total sum of chocolates she eats.
+Sachin's sister loves chocolates a lot. So he decided to gift her N boxes of delicious chocolates. Every box has the capacity 
+of 1000 chocolates. Filling more than 1000 chocolates in a box will break it and all the chocolates in it will fall down 
+and will become uneatable. Sachin is also concerned about her health, so he advised her to eat as minimum as possible chocolates. 
+So she decided that every day she will pick a box containing the minimum amount of chocolates and will eat half of its chocolates 
+and will put remaining chocolates in the box having next minimum amount of chocolates. If there is no next box remaining 
+then she will eat all of the chocolates from the current box. She will throw away all the empty and broken boxes every day. 
+This will continue until all the boxes are gone. Being concerned about her health Sachin asked her to tell him the number of
+chocolates she eats every day. But she forgets the number every day. So help her to find out how many chocolates she eats every day. 
+Basically, you have to output the total sum of chocolates she eats.
 
 Input Format
-Your function contains one argument- A One dimensional Integer array of Size N in which ith element denotes the number of chocolates in ith box.
-First line of input contains an Integer N denoting the size of Array. (1<=N<=10^5) 
+Your function contains one argument- A One dimensional Integer array of Size N in which ith element denotes the 
+number of chocolates in ith box. First line of input contains an Integer N denoting the size of Array. (1<=N<=10^5) 
 Next N lines of input contain a single integer from 1 to 1000.
 
 Constraints
