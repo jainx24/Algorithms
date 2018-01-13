@@ -1,14 +1,16 @@
-/* Alice is playing an arcade game and wants to climb to the top of the leaderboard. Can you help her track her ranking as she beats each level? 
-The game uses Dense Ranking, so its leaderboard works like this:
+/* Alice is playing an arcade game and wants to climb to the top of the leaderboard. Can you help her track her ranking 
+as she beats each level? The game uses Dense Ranking, so its leaderboard works like this:
 
 The player with the highest score is ranked number 1 on the leaderboard.
 Players who have equal scores receive the same ranking number, and the next player(s) receive the immediately following ranking number.
 
 When Alice starts playing, there are already n people on the leaderboard. The score of each player i is denoted by si. 
-Alice plays for m levels, and we denote her total score after passing each level j as alicej. After completing each level, Alice wants to know her current rank.
+Alice plays for m levels, and we denote her total score after passing each level j as alicej. After completing each level, 
+Alice wants to know her current rank.
 
-You are given an array, scores, of monotonically decreasing leaderboard scores, and another array, alice, of Alice's cumulative scores for each level of the game. 
-You must print m integers. The jth integer should indicate the current rank of alice after passing the jth level. */
+You are given an array, scores, of monotonically decreasing leaderboard scores, and another array, alice, of Alice's 
+cumulative scores for each level of the game. You must print m integers. The jth integer should indicate the current rank
+of alice after passing the jth level. */
 
 import java.io.*;
 import java.util.*;
