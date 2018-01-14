@@ -2,8 +2,8 @@
 He wants A to be sorted, so he delegates the task of doing so to his robot. 
 The robot can perform the following operation as many times as it wants:
 
-Choose any 3 consecutive indices and rotate their elements in such a way that ABC rotates to BCA, which rotates to CAB, which rotates back to ABC.
-For example: if A={1,6,5,2,4,3} and the robot rotates (6,5,2),  becomes (1,5,2,6,4,3).
+Choose any 3 consecutive indices and rotate their elements in such a way that ABC rotates to BCA, which rotates to CAB, 
+which rotates back to ABC. For example: if A={1,6,5,2,4,3} and the robot rotates (6,5,2),  becomes (1,5,2,6,4,3).
 
 On a new line for each test case, print YES if the robot can fully sort ; otherwise, print NO. */
 
