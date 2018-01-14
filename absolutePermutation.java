@@ -1,6 +1,7 @@
 /* We define P to be a permutation of the first N natural numbers in the range [1,N]. Let posi denote the position of i 
 in permutation P (please use -based indexing). P is considered to be an absolute permutation if abs(posi-i)=k  holds true 
-for every i in [1,N]. Given N and K, print the lexicographically smallest absolute permutation, P; if no absolute permutation exists, print -1.
+for every i in [1,N]. Given N and K, print the lexicographically smallest absolute permutation, P; 
+if no absolute permutation exists, print -1.
 
 Input Format
 The first line of input contains a single integer, T, denoting the number of test cases. 
