@@ -1,9 +1,7 @@
 /* Given two strings, a and b, determine if they share a common substring.
 
 Input Format
-The first line contains a single integer, p, denoting the number of (a,b) pairs you must check. 
-Each pair is defined over two lines:
-
+The first line contains a single integer, p, denoting the number of (a,b) pairs you must check. Each pair is defined over two lines:
 The first line contains string a.
 The second line contains string b.
 
